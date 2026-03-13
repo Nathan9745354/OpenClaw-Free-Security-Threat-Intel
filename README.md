@@ -28,17 +28,14 @@ Freshly published high-risk flaws:
 5. Iran Ransomware	SecurityWeek	MedTech supply chain attack
 100% Automated Pipeline
 
+
+# Formats for Every Workflow  
+
 Trusted Sources → OpenClaw Scrapers → AI Analysis → 
 Structured Reports → GitHub Pages Live
 No human intervention required. Clone this repo, access weekly PDFs/CSV instantly.
 
-# Formats for Every Workflow
-
-📊 Weekly PDF Report (20+ pages w/ executive summary)  
-📋 CVE Tracker CSV (SIEM/Excel ready)  
-📄 Live README (today's priorities)  
-🔔 Critical JSON Alerts  
-
+📊 Weekly PDF Report (5+ pages w/ executive summary)  
 Built For Security Teams
 Role	Gets
 SOC Analysts	KEV patch lists + 24hr alerts
@@ -47,7 +44,7 @@ Blue Teams	WAF rules + asset guidance
 CISOs	Board-ready executive summary
 Researchers	Raw feeds + source attribution
 
-Why This Matters  
+# Why This Matters  
 
 ✅ Saves 10-15 hours weekly across 20+ sources  
 ✅ Zero cost (no subscriptions, no paywalls)  
