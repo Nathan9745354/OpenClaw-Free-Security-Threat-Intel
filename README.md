@@ -8,7 +8,6 @@ Production-ready threat intelligence covering three critical categories:
 🔴 Actively Exploited CVEs (CISA KEV Priority)
 Real-world vulnerabilities under attack:
 
-
 • CVE-2025-68613: n8n RCE (CVSS 9.9) - Due 2026-03-25
 • CVE-2025-26399: SolarWinds RCE (CVSS 9.8) - Due 2026-03-12  
 • CVE-2021-22054: VMware SSRF - Due 2026-03-23
