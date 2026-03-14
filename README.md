@@ -1,4 +1,4 @@
-# OpenClaw-Free-Security-Threat-Intel
+# OpenClaw-Free-Security-Threat-Intel - Local Model GLM-4.7-Flash 30B
 This is using OpenClaw Local Model Automated weekly IT security reports, summaries, and PDFs published to GitHub Pages.
 OpenClaw-Free-Security-Threat-Intel delivers free weekly cybersecurity threat intelligence automatically generated for security professionals worldwide. Powered entirely by OpenClaw automation, this public repository eliminates manual threat hunting by aggregating data from trusted sources like CISA KEV, NVD, Microsoft, Mandiant, Cisco Talos, and The Hacker News into ready-to-use reports published to GitHub Pages.
 
