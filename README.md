@@ -1,5 +1,5 @@
 # OpenClaw-Free-Security-Threat-Intel
-This is using OpenClaw Automated weekly IT security reports, summaries, and PDFs published to GitHub Pages.
+This is using OpenClaw Local Model Automated weekly IT security reports, summaries, and PDFs published to GitHub Pages.
 OpenClaw-Free-Security-Threat-Intel delivers free weekly cybersecurity threat intelligence automatically generated for security professionals worldwide. Powered entirely by OpenClaw automation, this public repository eliminates manual threat hunting by aggregating data from trusted sources like CISA KEV, NVD, Microsoft, Mandiant, Cisco Talos, and The Hacker News into ready-to-use reports published to GitHub Pages.
 
 What You Get Every Week (Automated)
